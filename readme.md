@@ -26,7 +26,7 @@ It is usually easy to find software on the other end of the spectrum: ultra-mini
   - [CopyQ](https://hluk.github.io/CopyQ/) (Qt) - Clipboard manager with searchable and editable history
 
 - Postman:
-  - Help needed
+  - [httpie](https://httpie.org/) - Simple command-line HTTP client
 
 ### Note taking apps
 - Typora, Notable, Boostnote:
