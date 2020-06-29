@@ -13,7 +13,7 @@ It is usually easy to find software on the other end of the spectrum: ultra-mini
 - VS Code, Atom:
   - [Sublime Text](https://www.sublimetext.com/) (C++, Paid) - light and fast text-editor IDE hybrid, which was an inspiration for VS Code
   - [Gedit](https://wiki.gnome.org/Apps/Gedit) (Gtk) - suprisingly powerful standard Gnome text editor
-  - [Vim](https://www.vim.org/) - An available for everyone sadomasohist tool for coding
+  - [Vim](https://www.vim.org/) (C) - An available for everyone sadomasohist tool for coding
 
 - Hyper terminal:
   - [Kitty](https://sw.kovidgoyal.net/kitty/) (Python+C) - Fast and featureful crossplatform terminal. Extendable by plugins.
@@ -27,7 +27,7 @@ It is usually easy to find software on the other end of the spectrum: ultra-mini
   - [CopyQ](https://hluk.github.io/CopyQ/) (Qt) - Clipboard manager with searchable and editable history
 
 - Postman:
-  - [httpie](https://httpie.org/) - Simple command-line HTTP client
+  - [httpie](https://httpie.org/) (Python) - Simple command-line HTTP client
   - If you still using VSCode: [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ### Note taking apps
@@ -38,7 +38,7 @@ It is usually easy to find software on the other end of the spectrum: ultra-mini
 ### Communication
 - Slack, Discord, Skype, Zoom:
   - [Telegram](https://telegram.org/) (Qt+QML) - blazingly fast and light instant messenger
-  - [Jitsi](https://github.com/jitsi/jitsi) - Good free alternative for videocalls. Any of public instances, like [meet.jit.si](https://meet.jit.si/) or self-hosted
+  - [Jitsi](https://github.com/jitsi/jitsi) (Java, Web) - Good free alternative for videocalls. Any of public instances, like [meet.jit.si](https://meet.jit.si/) or self-hosted
 
 ### Mail
 - Mailspring:
